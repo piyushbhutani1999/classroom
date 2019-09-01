@@ -25,6 +25,6 @@ Now we have to install dependencies from pipfile by writing::
 
 After installing dependencies we can now work in our virtual environment::
 
-    $ pipenv shell
+    $ pipenv install
 
 Now we are ready to work on project
